@@ -1,9 +1,0 @@
-Route,Customer,Commodity,Quantity_MT,Quantity_Tolerance_pct,Quantity_Terms,Laycan_Start,Laycan_End,Load_Port,Load_Country,Loading_Rate_MT,Loading_Notes,LT_turn_time_hr,Discharge_Port,Discharge_Country,Discharge_Rate_MT,Discharge_turn_time_hr,Port_Cost_Load_USD,Port_Cost_Discharge_USD,Port_Cost_Total_USD,Commission_percentage,Commission_payee
-Australia-China (Iron Ore),Rio Tinto,Iron Ore,170000,10,MOLOO,12/3/2026,18/3/2026,Dampier,Australia,80000,,12,Qingdao,China,30000,24,,,240000,3.75,charterer
-Brazil-China (Iron Ore),Vale,Iron Ore,190000,10,MOLOO,3/4/2026,10/4/2026,Ponta da Madeira,Brazil,60000,,12,Caofeidian,China,30000,24,75000,95000,,3.75,charterer
-South Africa-China (Iron Ore),Anglo American,Iron Ore,180000,10,MOLOO,15/3/2026,22/3/2026,Saldanha Bay,South Africa,55000,,6,Tianjin,China,25000,24,,,180000,3.75,charterer
-Indonesia-India (Coal),Adaro,Thermal Coal,150000,10,MOLOO,10/4/2026,15/4/2026,Taboneo,Indonesia,35000,,12,Krishnapatnam,India,25000,24,,,90000,2.5,broker
-Canada-China (Coking Coal),Teck Resources,Coking Coal,160000,10,MOLOO,18/3/2026,26/3/2026,Vancouver,Canada,45000,,12,Fangcheng,China,25000,24,180000,110000,,3.75,charterer
-West Africa-India (Bauxite),Guinea Alumina Corp,Bauxite,175000,10,MOLOO,10/4/2026,18/4/2026,Kamsar,Guinea,30000,Anchorage Loading,,Mangalore,India,25000,12,,,150000,2.5,broker
-Australia-South Korea (Iron Ore),BHP,Iron Ore,165000,10,MOLOO,9/3/2026,15/3/2026,Port Hedland,Australia,80000,,12,Gwangyang,South Korea,30000,24,,,230000,3.75,charterer
-Brazil-Malaysia (Iron Ore),Vale Malaysia,Iron Ore,180000,10,MOLOO,25/3/2026,2/4/2026,Tubarao,Brazil,60000,,6,Teluk Rubiah,Malaysia,25000,24,85000,80000,,3.75,charterer
