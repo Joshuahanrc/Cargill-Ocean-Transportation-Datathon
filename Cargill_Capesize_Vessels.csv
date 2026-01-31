@@ -1,5 +1,0 @@
-Vessel Name,DWT_MT,Hire_Rate_USD_per_day,Warranted_Speed_Laden_kn,Warranted_Speed_Ballast_kn,Warranted_VLSF_Laden_mt_per_day,Warranted_MGO_Laden_mt_per_day,Warranted_VLSF_Ballast_mt_per_day,Warranted_MGO_Ballast_mt_per_day,Economical_Speed_Laden_kn,Economical_Speed_Ballast_kn,Economical_VLSF_Laden_mt_per_day,Economical_MGO_Laden_mt_per_day,Economical_VLSF_Ballast_mt_per_day,Economical_MGO_Ballast_mt_per_day,Port_Consumption_Idle_VLSF_mt_per_day,Port_Consumption_Working_VLSF_mt_per_day,Current_Discharge_Port,Current_Discharge_Country,ETD,Bunker_Remaining_VLSF_mt,Bunker_Remaining_MGO_mt
-ANN BELL,180803,11750,13.5,14.5,60,2,55,2,12,12.5,42,2,38,2,2,3,Qingdao,China,25/2/2026,401.3,45.1
-OCEAN HORIZON,181550,15750,13.8,14.8,61,1.8,56.5,1.8,12.3,12.8,43,1.8,39.5,1.8,1.8,3.2,Map Ta Phut,Thailand,1/3/2026,265.8,64.3
-PACIFIC GLORY,182320,14800,13.5,14.2,59,1.9,54,1.9,12.2,12.7,44,1.9,40,1.9,2,3,Gwangyang,S. Korea,10/3/2026,601.9,98.1
-GOLDEN ASCENT,179965,13950,13,14,58,2,53,2,11.8,12.3,41,2,37,2,1.9,3.1,Fangcheng,China,8/3/2026,793.3,17.1
